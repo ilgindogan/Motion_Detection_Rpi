@@ -1,2 +1,9 @@
 # Motion_Detection_Rpi
-This Repo is based motion detection and saving to motion image to the determined directory.
+Motion Detection using Raspberry Pi 3 & 4 or other operation system
+# Dependencies
+python3
+picamera
+PIL
+# Run
+python3 main.py
+
